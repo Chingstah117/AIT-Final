@@ -16,6 +16,7 @@ Each list will have multiple items (by embedding).
 An Example User:
 
 {
+
   username: "xXW33B420Xx",
 
   hash: // a password hash,
