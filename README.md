@@ -61,6 +61,8 @@ An Example List with Embedded Items:
 
 # Site Map
 
+[![list-map.png](https://i.postimg.cc/Rh78ZDjR/list-map.png)](https://postimg.cc/YLS8Xb2G)
+
 # User Stories or Use Cases
 
 1. As a non-registered user, I can register a new account with the site
