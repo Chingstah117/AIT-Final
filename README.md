@@ -26,13 +26,21 @@ An Example User:
 An Example List with Embedded Items: 
 
 {
+
   user: // a reference to a User object
+  
   name: user.name + "'s Weeb List",
+  
   items: [
+  
     { name: "Pokemon", rating: "8", genres: "Action, Adventure, Comedy, Kids, Fantasy", show: true},
+    
     { name: "Mobile Suit Gundam 00", rating: "9", genres: "Action, Military, Sci-Fi, Space, Drama, Mecha", show: true},
+    
   ],
+  
   lastUpdated: // timestamp
+  
 }
 
 # Link to Commented First Draft Schema
@@ -45,7 +53,7 @@ An Example List with Embedded Items:
 
 /weeb/add
 
-[![list-add.png](https://i.postimg.cc/6pY0zXrR/list-add.png)](https://postimg.cc/tsnWC8mC)
+[![list-add.png](https://i.postimg.cc/RhLfF7Gf/list-add.png)](https://postimg.cc/Cnddrf3L)
 
 /weeb/list
 
