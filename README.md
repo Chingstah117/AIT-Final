@@ -17,7 +17,9 @@ An Example User:
 
 {
   username: "xXW33B420Xx",
+
   hash: // a password hash,
+  
   lists: // a reference to List documents
 }
 
