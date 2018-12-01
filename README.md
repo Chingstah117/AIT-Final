@@ -45,11 +45,11 @@ An Example List with Embedded Items:
 
 /weeb/add
 
-[![Alt text](/path/to/img.jpg?raw=true)][https://drive.google.com/file/d/1ob2J8ielxbYqhpVJgXBMZvs-1KwYym_C/view?usp=sharing]
+[![list-add.png](https://i.postimg.cc/6pY0zXrR/list-add.png)](https://postimg.cc/tsnWC8mC)
 
 /weeb/list
 
-[![Alt text](/path/to/img.jpg?raw=true)][https://drive.google.com/file/d/1YLkKDBRa9FyExKFqGO5tv-NMP2oVFMCT/view?usp=sharing]
+[![list-list.png](https://i.postimg.cc/pTnJ25gY/list-list.png)](https://postimg.cc/VrmCgvsd)
 
 # Site Map
 
