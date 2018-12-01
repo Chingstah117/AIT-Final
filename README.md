@@ -50,19 +50,13 @@ An Example List with Embedded Items:
 # Wireframes
 
 /weeb/options
-
 [![list-options.png](https://i.postimg.cc/Y9jyQSTh/list-options.png)](https://postimg.cc/JDVqLRrL)
-
 /weeb/add
-
 [![list-add.png](https://i.postimg.cc/RhLfF7Gf/list-add.png)](https://postimg.cc/Cnddrf3L)
-
 /weeb/list
-
 [![list-list.png](https://i.postimg.cc/pTnJ25gY/list-list.png)](https://postimg.cc/VrmCgvsd)
 
 # Site Map
-
 [![list-map.png](https://i.postimg.cc/Rh78ZDjR/list-map.png)](https://postimg.cc/YLS8Xb2G)
 
 # User Stories or Use Cases
@@ -75,3 +69,6 @@ An Example List with Embedded Items:
 6. As a user, I can filter my watchlist by genre
 
 # Research Topics
+
+(3 points) Unit testing with JavaScript
+(5 points) Automated functional testing for all of your routes
