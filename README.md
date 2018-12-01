@@ -41,7 +41,7 @@ An Example List with Embedded Items:
 
 /weeb/options
 
-[![Alt text](/path/to/img.jpg?raw=true)][https://drive.google.com/file/d/1aPiPTTUtzlVLySl-ArD34NLXI01yTB0C/view?usp=sharing]
+[![list-options.png](https://i.postimg.cc/Y9jyQSTh/list-options.png)](https://postimg.cc/JDVqLRrL)
 
 /weeb/add
 
