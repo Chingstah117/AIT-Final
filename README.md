@@ -22,6 +22,7 @@ An Example User:
   hash: // a password hash,
   
   lists: // a reference to List documents
+  
 }
 
 An Example List with Embedded Items: 
