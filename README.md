@@ -77,4 +77,5 @@ An Example List with Embedded Items:
 # Research Topics
 
 (3 points) Unit testing with JavaScript
+
 (5 points) Automated functional testing for all of your routes
