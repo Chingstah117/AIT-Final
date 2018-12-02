@@ -78,4 +78,11 @@ An Example List with Embedded Items:
 
 (3 points) Unit testing with JavaScript
 
-(5 points) Automated functional testing for all of your routes
+Unit testing is a way to test code through modulized tests with control data. Each test tests anywhere from the functionality of a method to an entire class. Code is written into a short fragment and is run using what is being tested. Because unit testing is automated, it allows for quick tests of specific methods/classes as the tests have been precoded with values to test with and a value that the test should return. This means that the entire program doesn't need to be run to test the code. This also helps to narrow the scope of a coding error as the error will be limited to specific methods/classes instead of being "somewhere in the code". 
+
+(3 points) Perform client side form validation using custom JavaScript or JavaScript library
+
+(3 points) Configuration management
+
+Configuration management is a process used to establish consistency in the performance of code. Once consistency is established, configuration management will ensure that the consistency is maintained, meaning that once a process becomes consistent, it will remain consistent. Configuration management uses the functional relations in code to help control the code. This is used to make sure that no matter how long the code is run for, it will stay consistent. It also helps in writing code as it allows for a generic outline to be created and easily followed. 
+
